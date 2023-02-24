@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Student Diary</string>
+    <string name="login">Login</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Logout</string>
+    <string name="attendance">Attendance</string>
+    <string name="elementary_school">Crandall Elementary School</string>
+    <string name="school_description">Crandall Elementary School #6 will be located in the Heartland development on the south side of Interstate 20. This facility will feature a cafeteria, gymnasium, and media center on the north side of the building, while a 2-story academic wing will be located on the south.</string>
+    <string name="theory">Theory</string>
+    <string name="practical">Practical</string>
+    <string name="fees_paid">Fees Paid</string>
+</resources>
